@@ -1,0 +1,24 @@
+- links:
+  - name: Документация
+    link: https://docs.zoneminder.ru
+  - name: Скачать
+    link: https://zoneminder.com/downloads/
+    new_window: true
+- links:
+  - name: Facebook
+    link: https://www.facebook.com/zoneminder
+    new_window: true
+    social_icon: Facebook
+  - name: X
+    link: https://twitter.com/zoneminder
+    social_icon: Twitter
+    new_window: true
+- links:
+  - name: YouTube
+    link: https://www.youtube.com/channel/UCDKfmvDdcPBrB6rO2aj5Wlg
+    social_icon: YouTube
+    new_window: true
+  - name: RSS
+    link: /feed.xml
+    social_icon: RSS
+    new_window: false

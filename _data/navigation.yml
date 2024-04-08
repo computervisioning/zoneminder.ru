@@ -1,0 +1,6 @@
+- name: Документация
+  link: https://docs.zoneminder.ru
+- name: Скачать
+  link: https://zoneminder.com/downloads/
+  new_window: true
+  highlight: true
